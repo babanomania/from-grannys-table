@@ -13,6 +13,10 @@
 - 🤖 **Flexible AI Backends**: Supports **OpenAI**, **Ollama**, and **DeepSeek-V3** for LLM-powered content generation.  
 
 ---
+## **Sample**
+
+![Sample Image](sample.png)
+---
 
 ## **Tech Stack**  
 - **Crew AI**: Multi-agent framework for orchestrating the grandmother-granddaughter duo.  
