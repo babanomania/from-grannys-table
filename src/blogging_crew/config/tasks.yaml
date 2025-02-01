@@ -36,14 +36,21 @@ writing_task:
 enhancement_task:
   name: Enhance Blog Post
   description: |
-    Add modern elements to the blog post:
-      1. Include prep time, cooking time, and servings
-      2. Add equipment needed and possible substitutions
-      3. Suggest modern kitchen appliance alternatives
-      4. Include recipe variations and storage tips
-      5. Add nutritional information and health benefits
+    Modernize and digitize the blog post while weaving in grandmother's cherished stories:
+      1. Include prep time, cooking time, and servings in a sleek format
+      2. Add equipment needed with modern alternatives (Instant Pot, Air Fryer options)
+         - Include "How Granny Made It" traditional method
+      3. Share life hacks and kitchen gadget recommendations
+         - Compare with Granny's time-tested techniques
+      4. Include recipe variations optimized for busy lifestyles
+         - Highlight Granny's original tips that still work today
+      5. Add nutritional facts with focus on trending diets (keto, paleo friendly?)
+         - Note Granny's wisdom about balanced eating
       6. Find and embed a single image from unsplash that:
-         - Capture the warm, homely atmosphere of traditional cooking
-         - Show the vibrant colors and textures of Indian cuisine
-         - Reflect the family-oriented, nostalgic mood of the blog
-  expected_output: Enhanced Markdown content with a single image after the title, recipe details, and modern notes and without the backticks
+         - Shows traditional cooking
+         - Features Instagram-worthy food styling
+         - Captures generational cooking connection
+      7. Add social media-friendly hashtags (#GrannysKitchenModernized #TraditionMeetsTech)
+      8. Include quick scannable tips using emojis
+         - Blend modern shortcuts with Granny's secret tips
+  expected_output: Enhanced Markdown content, with a single image after the title that bridges generational cooking wisdom with modern tech-savvy approach and remove the backticks
