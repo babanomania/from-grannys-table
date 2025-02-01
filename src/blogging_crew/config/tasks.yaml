@@ -1,34 +1,49 @@
 research_task:
-  name: Research Vegan Recipes
+  name: Research Indian Vegan Recipes
   description: |
-    Research trending vegan recipes and traditional meat alternatives for {topic}.
-    Include 2-3 historical facts about plant-based cooking.
+    Research traditional Indian vegetarian/vegan recipes and ingredients for {topic}.
+    Include:
+    - 2-3 historical facts about Indian plant-based cooking
+    - Traditional cooking methods and utensils used
+    - Common variations of the recipe across regions
   expected_output: A 500-word research report with key findings and sources
 
 outline_task:
   name: Create Blog Outline
   description: |
-    Create a blog outline combining grandmother's storytelling and modern enhancements.
-    Include sections for: nostalgic intro, recipe story, ingredients with old/new variations,
-    and a closing moral.
+    Create a blog outline combining story and recipe instructions.
+    Include sections for:
+    - Family story intro
+    - Recipe origins
+    - Ingredient list with substitutions
+    - Detailed step-by-step cooking instructions
+    - Tips and techniques
+    - Serving suggestions
   expected_output: Markdown outline with section headers and brief content notes
 
 writing_task:
   name: Write Blog Post
   description: |
-    Write the full blog post using the outline. Maintain grandmother's voice with:
-    - Colloquial language (e.g., "dear", "you'll want to")
-    - Personal anecdotes
-    - 2-3 'old wisdom' cooking tips
-    Include placeholders for images marked as [IMAGE: description].
+    Write the full blog post combining storytelling with clear recipe instructions:
+    - Start with family cooking memories
+    - Include warm expressions (e.g., "beta", "dear one")
+    - Write detailed ingredient measurements
+    - Create clear, numbered cooking steps
+    - Add chef's notes and tips throughout
+    Include placeholders for process photos marked as [IMAGE: description].
   expected_output: A 1000-word blog post in Markdown format
 
 enhancement_task:
   name: Enhance Blog Post
   description: |
     Add modern elements to the blog post:
-    1. Replace 2 ingredients with contemporary alternatives
-    2. Add 1 time-saving kitchen hack
-    3. Insert 1 nutrition fact
-    4. Find and embed relevant images using search_public_images.
-  expected_output: Enhanced Markdown content with images and modern notes
+      1. Include prep time, cooking time, and servings
+      2. Add equipment needed and possible substitutions
+      3. Suggest modern kitchen appliance alternatives
+      4. Include recipe variations and storage tips
+      5. Add nutritional information and health benefits
+      6. Find and embed a single image from unsplash that:
+         - Capture the warm, homely atmosphere of traditional cooking
+         - Show the vibrant colors and textures of Indian cuisine
+         - Reflect the family-oriented, nostalgic mood of the blog
+  expected_output: Enhanced Markdown content with a single image after the title, recipe details, and modern notes and without the backticks
