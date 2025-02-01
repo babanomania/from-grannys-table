@@ -1,0 +1,27 @@
+# Target Audience
+audience: 
+  - Vegans and vegetarians
+  - Health-conscious individuals
+  - Home cooks looking for easy recipes
+  - People transitioning to a plant-based diet
+
+# Tone and Style
+tone: Warm, nostalgic, and approachable
+style: 
+  - Conversational and personal
+  - Include anecdotes and family stories
+  - Provide practical tips and modern twists
+
+# Recipe Preferences
+recipe_types:
+  - Hearty and filling meals
+  - Quick and easy recipes (under 30 minutes)
+  - Budget-friendly ingredients
+  - Seasonal produce (winter vegetables, citrus fruits)
+
+# Additional Notes
+notes: 
+  - Include nutritional information for each recipe
+  - Add time-saving kitchen hacks
+  - Use simple, easy-to-find ingredients
+  - Include options for gluten-free and nut-free variations

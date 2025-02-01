@@ -1,0 +1,34 @@
+research_task:
+  name: Research Vegan Recipes
+  description: |
+    Research trending vegan recipes and traditional meat alternatives for {topic}.
+    Include 2-3 historical facts about plant-based cooking.
+  expected_output: A 500-word research report with key findings and sources
+
+outline_task:
+  name: Create Blog Outline
+  description: |
+    Create a blog outline combining grandmother's storytelling and modern enhancements.
+    Include sections for: nostalgic intro, recipe story, ingredients with old/new variations,
+    and a closing moral.
+  expected_output: Markdown outline with section headers and brief content notes
+
+writing_task:
+  name: Write Blog Post
+  description: |
+    Write the full blog post using the outline. Maintain grandmother's voice with:
+    - Colloquial language (e.g., "dear", "you'll want to")
+    - Personal anecdotes
+    - 2-3 'old wisdom' cooking tips
+    Include placeholders for images marked as [IMAGE: description].
+  expected_output: A 1000-word blog post in Markdown format
+
+enhancement_task:
+  name: Enhance Blog Post
+  description: |
+    Add modern elements to the blog post:
+    1. Replace 2 ingredients with contemporary alternatives
+    2. Add 1 time-saving kitchen hack
+    3. Insert 1 nutrition fact
+    4. Find and embed relevant images using search_public_images.
+  expected_output: Enhanced Markdown content with images and modern notes
